@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/dsfx3d/no-brainer-crypto/compare/v0.0.1...v0.0.2)
+
+### 🏡 Chore
+
+- Add README ([67de796](https://github.com/dsfx3d/no-brainer-crypto/commit/67de796))
+
+### ❤️ Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.0.1
 
 
