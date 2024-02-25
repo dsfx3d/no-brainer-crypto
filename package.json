@@ -1,8 +1,9 @@
 {
-  "name": "workspace",
+  "name": "no-brainer-crypto",
   "version": "0.0.0",
-  "description": "",
-  "repository": "dsfx3d/workspace",
+  "description": "No brainer encryption and hashing with built-in best practices",
+  "author": "Yashodhan Singh",
+  "repository": "dsfx3d/no-brainer-crypto",
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
