@@ -1,4 +1,7 @@
 {
   "extends": ["eslint-config-dsfx3d"],
-  "root": true
+  "root": true,
+  "rules": {
+    "no-useless-constructor": "off",
+  },
 }
